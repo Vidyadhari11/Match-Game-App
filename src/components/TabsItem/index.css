@@ -1,0 +1,18 @@
+.tab-item-container {
+  list-style-type: none;
+  display: flex;
+  margin-right: 15px;
+}
+.category-button {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 22px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: transparent;
+}
+.highlight-text {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+}
